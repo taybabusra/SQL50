@@ -1,5 +1,5 @@
 I will be solving the SQL50 Leetcode study plane
 
-| Serial NO.    | Difficulty level   | Question link                     | Company                   |
-| :-----------  | :----------------- | :-------------------------------- |
-| `01           | `string`           | **Required**. Id of item to fetch |
+| Serial NO.    | Difficulty level   | Question link                     | Company                   |  
+| :-----------  | :----------------- | :-------------------------------- |-------------------------- |  
+| `01           | `string`           | **Required**. Id of item to fetch |                            
