@@ -18,4 +18,13 @@ I will be solving the SQL50 Leetcode study plane
         Facebook,<br>
         Microsoft and more</td>
   </tr>
+  <tr>
+    <td>02</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50">Cuatomer Reference-584</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day1/select.sql">select product</a></td>
+    <td>Amazon,<br>
+        Facebook,<br>
+        Microsoft and more</td>
+  </tr>
 </table>
