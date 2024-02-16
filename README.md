@@ -31,7 +31,7 @@ I will be solving the SQL50 Leetcode study plane
     <td>02</td>
     <td><code>EASY</code></td>
     <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
-    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day2/referee.sql">select name </a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
        Adobe</td>
