@@ -89,7 +89,7 @@ I will be solving the SQL50 Leetcode study plane
     <tr>
     <td>09</td>
     <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50">-Rising Temperature</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
