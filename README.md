@@ -28,6 +28,95 @@ I will be solving the SQL50 Leetcode study plane
        Adobe</td>
   </tr>
     <tr>
+    <td>03</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>04</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>05</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>06</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>07</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>08</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>09</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>10</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>02</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    </tr>
+    <tr>
     <td>02</td>
     <td><code>EASY</code></td>
     <td><a href="https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50">Big Countries-595</a></td>
