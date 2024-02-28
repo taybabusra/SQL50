@@ -96,7 +96,7 @@ I will be solving the SQL50 Leetcode study plane
        Adobe</td>
   </tr>
     <tr>
-    <td>11</td>
+    <td>10</td>
     <td><code>EASY</code></td>
     <td><a href="https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50">Average time of process -1661</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
@@ -106,7 +106,7 @@ I will be solving the SQL50 Leetcode study plane
   </tr>
     </tr>
     <tr>
-    <td>12</td>
+    <td>11</td>
     <td><code>EASY</code></td>
     <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
@@ -115,6 +115,15 @@ I will be solving the SQL50 Leetcode study plane
        Adobe</td>
   </tr> 
       <tr>
+    <td>12</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+    <tr>
     <td>13</td>
     <td><code>EASY</code></td>
     <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
@@ -124,7 +133,115 @@ I will be solving the SQL50 Leetcode study plane
        Adobe</td>
   </tr> 
     <tr>
-    <td>12</td>
+    <td>14</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+    <tr>
+    <td>15</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+    <tr>
+    <td>16</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+    <tr>
+    <td>17</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>18</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>19</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>20</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>21</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>22</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>23</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>24</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>25</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+    <tr>
+    <td>26</td>
     <td><code>EASY</code></td>
     <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
@@ -133,7 +250,70 @@ I will be solving the SQL50 Leetcode study plane
        Adobe</td>
   </tr> 
       <tr>
-    <td>12</td>
+    <td>27</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+      <tr>
+    <td>28</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+      <tr>
+    <td>30</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr>
+      <tr>
+    <td>31</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+      <tr>
+    <td>32</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+      <tr>
+    <td>33</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+      <tr>
+    <td>34</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+      <tr>
+    <td>35</td>
     <td><code>EASY</code></td>
     <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
