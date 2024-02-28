@@ -113,5 +113,32 @@ I will be solving the SQL50 Leetcode study plane
     <td>Amazon,<br>
        Google,<br>
        Adobe</td>
-  </tr>
+  </tr> 
+      <tr>
+    <td>13</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+    <tr>
+    <td>12</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
+      <tr>
+    <td>12</td>
+    <td><code>EASY</code></td>
+    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td>Amazon,<br>
+       Google,<br>
+       Adobe</td>
+  </tr> 
 </table>
