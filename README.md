@@ -126,7 +126,7 @@ I will be solving the SQL50 Leetcode study plane
     <tr>
     <td>13</td>
     <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50">Manager with report 570</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
@@ -134,9 +134,9 @@ I will be solving the SQL50 Leetcode study plane
   </tr> 
     <tr>
     <td>14</td>
-    <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
-    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td><code>MEDIUM</code></td>
+    <td><a href="https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50">Confirmation rate-1934</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day14/confirmation_rate">confirmation rate</a></td>
     <td>Amazon,<br>
        Google,<br>
        Adobe</td>
@@ -144,8 +144,8 @@ I will be solving the SQL50 Leetcode study plane
     <tr>
     <td>15</td>
     <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
-    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td><a href="https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50">Not boring movie 620</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Basic%20Aggregate%20function/not%20boring%20movie.sql">not boring</a></td>
     <td>Amazon,<br>
        Google,<br>
        Adobe</td>
@@ -153,7 +153,7 @@ I will be solving the SQL50 Leetcode study plane
     <tr>
     <td>16</td>
     <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50">Average selling price 1251</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
@@ -162,7 +162,7 @@ I will be solving the SQL50 Leetcode study plane
     <tr>
     <td>17</td>
     <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50">Project Employees I-1075</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
@@ -171,7 +171,7 @@ I will be solving the SQL50 Leetcode study plane
     <tr>
     <td>18</td>
     <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50">Percentage of user 1633</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
@@ -180,7 +180,7 @@ I will be solving the SQL50 Leetcode study plane
     <tr>
     <td>19</td>
     <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><a href="https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50">Quality percentage -1211</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
@@ -188,8 +188,8 @@ I will be solving the SQL50 Leetcode study plane
   </tr>
     <tr>
     <td>20</td>
-    <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><code>MEDIUM</code></td>
+    <td><a href="https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50">Monthly Transaction I 1193</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
@@ -197,8 +197,8 @@ I will be solving the SQL50 Leetcode study plane
   </tr>
     <tr>
     <td>21</td>
-    <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><code>MEDIUM</code></td>
+    <td><a href="https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50">Immediate food delivery II-1174</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
@@ -206,8 +206,8 @@ I will be solving the SQL50 Leetcode study plane
   </tr>
     <tr>
     <td>22</td>
-    <td><code>EASY</code></td>
-    <td><a href="https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50">Employee bonus-577</a></td>
+    <td><code>MEDIUM</code></td>
+    <td><a href="https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50">Game play analysis IV -550</a></td>
     <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
     <td>Amazon,<br>
        Google,<br>
