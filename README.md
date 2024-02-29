@@ -163,7 +163,7 @@ I will be solving the SQL50 Leetcode study plane
     <td>17</td>
     <td><code>EASY</code></td>
     <td><a href="https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50">Project Employees I-1075</a></td>
-    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Basic%20Aggregate%20function/project_employee.sql">Project_employee</a></td>
     <td>Amazon,<br>
        Google,<br>
        Adobe</td>
