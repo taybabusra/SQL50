@@ -190,7 +190,7 @@ I will be solving the SQL50 Leetcode study plane
     <td>20</td>
     <td><code>MEDIUM</code></td>
     <td><a href="https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50">Monthly Transaction I 1193</a></td>
-    <td<a href="https://github.com/taybabusra/SQL50/blob/main/Basic%20Aggregate%20function/Monthly_transaction.sql">Monthly transaction</a></td>
+    <td><a href="">Monthly Transaction I 1193</a></td>
     <td>Amazon,<br>
        Google,<br>
        Adobe</td>
