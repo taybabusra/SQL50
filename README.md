@@ -208,7 +208,7 @@ I will be solving the SQL50 Leetcode study plane
     <td>22</td>
     <td><code>MEDIUM</code></td>
     <td><a href="https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50">Game play analysis IV -550</a></td>
-    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Day3/select_countries.sql">select Countries</a></td>
+    <td><a href="https://github.com/taybabusra/SQL50/blob/main/Basic%20Aggregate%20function/Game_play.sql">Game play analysis</a></td>
     <td>Amazon,<br>
        Google,<br>
        Adobe</td>
